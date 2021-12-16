@@ -1,0 +1,41 @@
+.gl1{
+    padding: 20px;
+    display: flex;
+} 
+.img1{
+    width: 131px;
+    height: 72px;
+    margin-left: 100px;
+}
+.lol1{
+    border-left: 1px solid grey;
+    margin-left: 50px;
+    height: 45px;
+    margin-top: 20px;
+}
+.UA{
+    margin-left: 50px;
+    margin-top: -3px;
+}
+.marg{
+    margin-top: -15px;
+    background: aqua;
+}
+.marg2{
+    margin-top: -15px;
+}
+.hhh{
+    margin-left: 50px;
+    margin-top: -3px;
+}
+.Ulkit{
+    display: flex;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.uk-icon-button{
+    margin-left: 8px;
+}
+.telef{
+    margin-left: 50px;
+}
